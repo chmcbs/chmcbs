@@ -26,5 +26,5 @@
 ### Currently...
 
 - Improving large-scale demand forecasts across Europe for Unilever
-- Rebuilding [HeadCount](https://github.com/chmcbs/HeadCount) as a production-grade MLOps pipeline
+- Building an [automated arXiv research assistant](https://github.com/chmcbs/arXivAssistant) with hybrid search and feedback-driven ranking
 - Practising algorithms and data structures on NeetCode
