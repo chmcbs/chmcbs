@@ -27,4 +27,5 @@
 
 - Improving large-scale demand forecasts across Europe for Unilever
 - Building an [automated arXiv research assistant](https://github.com/chmcbs/arXivAssistant) with hybrid search and feedback-driven ranking
+- Reading [Designing Machine Learning Systems](https://github.com/chiphuyen/dmls-book) by [Chip Huyen](https://github.com/chiphuyen)
 - Practising algorithms and data structures on NeetCode
