@@ -26,5 +26,5 @@
 ### Currently...
 
 - Improving large-scale demand forecasts across Europe for Unilever
-- Building an [automated arXiv research assistant](https://github.com/chmcbs/arXivAssistant) with hybrid search and feedback-driven ranking
+- Building a [daily arXiv digest](https://github.com/chmcbs/arXivAssistant) with LLM summaries and feedback-driven suggestions
 - Reading [Designing Machine Learning Systems](https://github.com/chiphuyen/dmls-book) by [Chip Huyen](https://github.com/chiphuyen)
