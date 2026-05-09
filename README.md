@@ -3,7 +3,7 @@
 
 <div>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=1300&color=D1D5DB&center=false&width=620&height=45&lines=Engineering+features+for+time+series+models.;Improving+forecasting+accuracy+in+production.;Building+and+deploying+ML+systems." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=1300&color=D1D5DB&center=false&width=620&height=45&lines=Engineering+features+for+time+series+models.;Improving+forecast+accuracy+in+production.;Building+and+deploying+ML+systems." alt="Typing SVG" />
   </a>
 </div>
 
