@@ -1,9 +1,8 @@
 ## [Charlie McCormick-Barnes](https://linkedin.com/in/charliemcbs)
-### ML Engineer @ Unilever
 
 <div>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=1300&color=D1D5DB&center=false&width=620&height=45&lines=Engineering+features+for+time+series+models.;Improving+forecast+accuracy+in+production.;Building+and+deploying+ML+systems." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=5000&pause=1000&color=D1D5DB&center=false&width=620&height=45&lines=ML+Engineer+@+Unilever;Forecasting+Demand+for+Supply+Chains" alt="Typing SVG" />
   </a>
 </div>
 
@@ -17,7 +16,7 @@
   <img src="https://cdn.simpleicons.org/huggingface" height="30" alt="Hugging Face"/>
 </p>
 
-### Featured Work:
+### Featured Projects:
 
 1. **[HeadCount](https://github.com/chmcbs/HeadCount)** — DeepLabV3+ segmentation for wheat head counting (computer vision)
 2. **[Bolongo](https://github.com/chmcbs/Bolongo)** — NLP chatbot with intent classification and automated training data generation
@@ -25,6 +24,6 @@
 
 ### Currently...
 
-- Improving large-scale demand forecasts across Europe for Unilever
+- Improving demand forecasts across Europe for Unilever
 - Building a [daily digest for arXiv papers](https://github.com/chmcbs/arXivAssistant)
 - Reading [Designing Machine Learning Systems](https://github.com/chiphuyen/dmls-book) by [Chip Huyen](https://github.com/chiphuyen)
