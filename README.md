@@ -26,5 +26,5 @@
 ### Currently...
 
 - Improving demand forecasts across Europe for Unilever
-- Building a [daily digest for arXiv papers](https://github.com/chmcbs/research-pigeon)
+- Building a [personalised daily digest for arXiv papers](https://github.com/chmcbs/ResearchPigeon)
 - Reading [Designing Machine Learning Systems](https://github.com/chiphuyen/dmls-book) by [Chip Huyen](https://github.com/chiphuyen)
