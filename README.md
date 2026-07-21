@@ -25,6 +25,6 @@
 
 ### Currently...
 
-- Improving demand forecasts across Europe for Unilever
+- Developing a multi-horizon D2C demand forecasting system for [Wild](https://wearewild.com/)
 - Building a [personalised daily digest for arXiv papers](https://github.com/chmcbs/ResearchPigeon)
 - Reading [Designing Machine Learning Systems](https://github.com/chiphuyen/dmls-book) by [Chip Huyen](https://github.com/chiphuyen)
