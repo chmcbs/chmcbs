@@ -19,9 +19,10 @@
 
 ### Featured Projects:
 
-1. **[HeadCount](https://github.com/chmcbs/HeadCount)** — DeepLabV3+ segmentation for wheat head counting (computer vision)
-2. **[Bolongo](https://github.com/chmcbs/Bolongo)** — NLP chatbot with intent classification and automated training data generation
-3. **[chinese-noun-embeddings](https://github.com/chmcbs/chinese-noun-embeddings)** — Transformer embedding analysis and clustering for semantic structure
+1. **[chinese-noun-embeddings](https://github.com/chmcbs/chinese-noun-embeddings)** — How BERT/RoBERTa structure Chinese nouns, and why silhouette can be misleading (embeddings)
+2. **[HeadCount](https://github.com/chmcbs/HeadCount)** — DeepLabV3+ wheat head segmentation with distance transform to separate dense canopies (computer vision)
+3. **[Bolongo](https://github.com/chmcbs/Bolongo)** — OSRS chatbot using intent classification and template-based responses (NLP)
+
 
 ### Currently...
 
