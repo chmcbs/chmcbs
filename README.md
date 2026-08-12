@@ -21,7 +21,7 @@
 
 1. **[chinese-noun-embeddings](https://github.com/chmcbs/chinese-noun-embeddings)** — How the encoder transformers BERT and RoBERTa organise Chinese nouns (embeddings)
 2. **[HeadCount](https://github.com/chmcbs/HeadCount)** — DeepLabV3+ wheat head segmentation with distance transform for counting (computer vision)
-3. **[Bolongo](https://github.com/chmcbs/Bolongo)** — OSRS chatbot using intent classification and template-based responses (NLP)
+3. **[Bolongo](https://github.com/chmcbs/Bolongo)** — Chatbot for OSRS using intent classification and template-based responses (NLP)
 
 
 ### Currently...
