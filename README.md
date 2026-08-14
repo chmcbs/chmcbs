@@ -19,7 +19,7 @@
 
 ### Featured Projects:
 
-1. **[HeadCount](https://github.com/chmcbs/HeadCount)** — Semantic segmentation with distance transform for counting wheat heads in field images (computer vision)
+1. **[HeadCount](https://github.com/chmcbs/HeadCount)** — Counting wheat heads in field images using semantic segmentation with a distance transform (computer vision)
 2. **[chinese-noun-embeddings](https://github.com/chmcbs/chinese-noun-embeddings)** — How the encoder transformers BERT and RoBERTa organise Chinese nouns (embeddings)
 3. **[Bolongo](https://github.com/chmcbs/Bolongo)** — Chatbot for OSRS using intent classification and template-based responses (NLP)
 
