@@ -12,6 +12,7 @@
   <img src="https://cdn.simpleicons.org/fastapi" height="30" alt="FastAPI"/>
   <img src="https://cdn.simpleicons.org/docker" height="30" alt="Docker"/>
   <img src="https://cdn.simpleicons.org/postgresql" height="30" alt="PostgreSQL"/>
+  <img src="https://cdn.simpleicons.org/snowflake" height="30" alt="Snowflake"/>
   <img src="https://cdn.simpleicons.org/databricks" height="30" alt="Databricks"/>
   <img src="https://cdn.simpleicons.org/mlflow" height="30" alt="MLflow"/>
   <img src="https://cdn.simpleicons.org/huggingface" height="30" alt="Hugging Face"/>
