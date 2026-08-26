@@ -22,7 +22,7 @@
 1. **[ResearchPigeon](https://github.com/chmcbs/ResearchPigeon)** — Personalised daily arXiv digest with feedback-driven ranking and LLM summaries (recommender systems)
 2. **[HeadCount](https://github.com/chmcbs/HeadCount)** — Counting wheat heads in field images with semantic segmentation and a distance transform (computer vision)
 3. **[chinese-noun-embeddings](https://github.com/chmcbs/chinese-noun-embeddings)** — How the encoder transformers BERT and RoBERTa organise Chinese nouns (embeddings)
-4. **[Bolongo](https://github.com/chmcbs/Bolongo)** — Chatbot for OSRS using intent classification and template-based responses (NLP)
+4. **[Bolongo](https://github.com/chmcbs/Bolongo)** — Chatbot for Old School RuneScape using intent classification and template-based responses (NLP)
 
 
 ### Currently reading:
