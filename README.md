@@ -17,14 +17,16 @@
   <img src="https://cdn.simpleicons.org/huggingface" height="30" alt="Hugging Face"/>
 </p>
 
-### Featured Projects:
+### Featured projects:
 
-1. **[HeadCount](https://github.com/chmcbs/HeadCount)** — Counting wheat heads in field images with semantic segmentation and a distance transform (computer vision)
-2. **[chinese-noun-embeddings](https://github.com/chmcbs/chinese-noun-embeddings)** — How the encoder transformers BERT and RoBERTa organise Chinese nouns (embeddings)
-3. **[Bolongo](https://github.com/chmcbs/Bolongo)** — Chatbot for OSRS using intent classification and template-based responses (NLP)
+1. **[ResearchPigeon](https://github.com/chmcbs/ResearchPigeon)** — Personalised daily arXiv digest with feedback-driven ranking and LLM summaries (recommender systems)
+2. **[HeadCount](https://github.com/chmcbs/HeadCount)** — Counting wheat heads in field images with semantic segmentation and a distance transform (computer vision)
+3. **[chinese-noun-embeddings](https://github.com/chmcbs/chinese-noun-embeddings)** — How the encoder transformers BERT and RoBERTa organise Chinese nouns (embeddings)
+4. **[Bolongo](https://github.com/chmcbs/Bolongo)** — Chatbot for OSRS using intent classification and template-based responses (NLP)
 
 
-### Currently...
+### Currently reading:
 
-- Building a [personalised daily digest for arXiv papers](https://github.com/chmcbs/ResearchPigeon)
-- Reading [Designing Machine Learning Systems](https://github.com/chiphuyen/dmls-book) by [Chip Huyen](https://github.com/chiphuyen)
+- [The Infinity Machine](https://www.goodreads.com/book/show/241434373-the-infinity-machine)
+- [A Philosophy of Software Design](https://www.goodreads.com/en/book/show/39996759-a-philosophy-of-software-design)
+- [Designing Machine Learning Systems](https://github.com/chiphuyen/dmls-book)
